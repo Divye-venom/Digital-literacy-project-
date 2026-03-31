@@ -2,4 +2,4 @@ This folder contains screenshots of my professional digital profiles created as 
 
 Platforms included:
 
-GitHub LinkedIn Stack Overflow
+GitHub LinkedIn Kaggle
